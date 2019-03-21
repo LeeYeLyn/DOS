@@ -72,3 +72,320 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-17 21:43:09.461 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-17 21:43:20.502
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\이예린'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2019-03-19 21:14:48.372 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-19 21:15:49.201
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\이예린'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:17:21.153
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:17:21.153
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.153
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.153
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:17:21.203
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:17:21.203
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.203
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.203
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.203
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:17:21.241
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:17:21.241
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.241
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.241
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.241
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:17:21.250
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:17:21.251
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.251
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:17:21.251
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:17:21.251
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2019-03-19 21:18:08.152
+!MESSAGE An error occurred while committing the engine session for profile: epp.package.java.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2019-03-19 21:18:08.152
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Collect phase.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.getProfileDataDirectory(EngineSession.java:78)
+	at org.eclipse.equinox.internal.p2.engine.Phase.prePerform(Phase.java:114)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:230)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:179)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:86)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:45)
+	at org.eclipse.equinox.p2.operations.ProvisioningSession.performProvisioningPlan(ProvisioningSession.java:175)
+	at org.eclipse.equinox.p2.operations.ProfileModificationJob.runModal(ProfileModificationJob.java:79)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2019-03-19 21:18:08.531 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-19 21:18:53.093
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\이예린'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:20:02.381
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:20:02.381
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.381
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.381
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.381
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:20:02.420
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:20:02.420
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.420
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.420
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.420
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:20:02.457
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:20:02.457
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.457
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.457
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.457
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2019-03-19 21:20:02.466
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2019-03-19 21:20:02.466
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE Software being installed: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE Missing requirement: JDT UI Tooling for JavaFX 3.5.0.201902220800 (org.eclipse.fx.ide.jdt.ui 3.5.0.201902220800) requires 'bundle org.eclipse.jdt.core.manipulation 1.11.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.466
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE From: e(fx)clipse - IDE - Basic 3.5.0.201902220800 (org.eclipse.fx.ide.basic.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE To: org.eclipse.fx.ide.jdt.ui [3.5.0.201902220800]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2019-03-19 21:20:02.466
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE From: e(fx)clipse - IDE 3.5.0.201902220800 (org.eclipse.fx.ide.feature.feature.group 3.5.0.201902220800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2019-03-19 21:20:02.466
+!MESSAGE To: org.eclipse.fx.ide.basic.feature.feature.group [3.5.0.201902220800]
+!SESSION 2019-03-19 21:23:04.470 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/이예린/Desktop/git/DOS/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-19 21:23:19.107
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\이예린'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2019-03-19 21:24:02.090
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4533)
+	at org.eclipse.swt.SWT.error(SWT.java:4448)
+	at org.eclipse.swt.SWT.error(SWT.java:4419)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:482)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:354)
+	at org.eclipse.swt.widgets.Tree.getItems(Tree.java:3351)
+	at org.eclipse.jface.viewers.TreeViewer.getChildren(TreeViewer.java:160)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalCollectExpandedItems(AbstractTreeViewer.java:1582)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getExpandedElements(AbstractTreeViewer.java:1185)
+	at org.eclipse.ui.internal.dialogs.NewWizardNewPage.storeExpandedCategories(NewWizardNewPage.java:601)
+	at org.eclipse.ui.internal.dialogs.NewWizardNewPage.saveWidgetValues(NewWizardNewPage.java:522)
+	at org.eclipse.ui.internal.dialogs.NewWizardSelectionPage.saveWidgetValues(NewWizardSelectionPage.java:97)
+	at org.eclipse.ui.internal.dialogs.NewWizard.performFinish(NewWizard.java:128)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:782)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:417)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:81)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:291)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:92)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:305)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:239)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:390)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:151)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
