@@ -1,4 +1,4 @@
-package DBTest;
+package application;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -15,6 +15,8 @@ public class DBConnection {
 
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 			conn = DriverManager.getConnection(url,user,pw);
+			
+			System.out.println("Database에 연결되었습니다 \n");
 
 		}catch(ClassNotFoundException e) {
 			System.out.println("DB DRIVER LOADING FAIL : "+e);
@@ -24,6 +26,7 @@ public class DBConnection {
 
 		}catch(Exception e) {
 			System.out.println("Unknown : "+e);
+			e.printStackTrace();
 		}
 		return conn;
 	}
